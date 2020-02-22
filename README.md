@@ -1,2 +1,2 @@
-# coriolis
-Coriolis companion app
+# cedar
+Cedar - RPG Charsheet Constructor
