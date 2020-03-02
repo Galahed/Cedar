@@ -1,2 +1,2 @@
-# cedar
-Cedar - RPG Charsheet Constructor
+# RPGCC
+RPGCC - RPG Charsheet Constructor
